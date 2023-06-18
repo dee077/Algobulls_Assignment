@@ -1,5 +1,5 @@
 # Algobulls_Assignment
-
+Visit the below link and provide admin user credentials in the alert prompt to see rest apis
 Deployment link: https://dee777.pythonanywhere.com/api/todo/ <br/>
 
 ## Requirements
