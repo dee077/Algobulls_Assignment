@@ -25,7 +25,7 @@ Password: 1234
 2. Setup Virtual env:
 
    ```shell
-   pip install virtualenv
+   pip install virtualenv <br/>
 
    ```shell
    virtualenv env 
