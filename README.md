@@ -2,6 +2,11 @@
 Visit the below link and provide admin user credentials in the alert prompt to see REST API. <br/>
 Deployment link: https://dee777.pythonanywhere.com/api/todo/ <br/>
 
+## Admin User Credintials
+
+Username: dee777 <br/>
+Password: 1234
+
 ## Requirements
 
 Make sure you have the following software installed on your machine:
@@ -35,11 +40,6 @@ Make sure you have the following software installed on your machine:
    python manage.py runserver
 
 Access the application by visiting http://localhost:8000/api/todo and providing admin user password credentials in your web browser.
-
-## Admin User Credintials
-
-Username: dee777 <br/>
-Password: 1234
 
 ## API Endpoints
 The project exposes the following API endpoints:
