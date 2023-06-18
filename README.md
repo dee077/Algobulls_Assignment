@@ -1,6 +1,6 @@
 # Algobulls_Assignment
 
-Deployment link: https://dee777.pythonanywhere.com/api/todo/
+Deployment link: https://dee777.pythonanywhere.com/api/todo/ <br/>
 Postman Workspace: https://www.postman.com/flight-physicist-9054540/workspace/public/overview
 
 ## Requirements
