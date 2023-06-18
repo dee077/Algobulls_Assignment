@@ -12,7 +12,7 @@ Make sure you have the following software installed on your machine:
 
 ## Admin User Credintials
 
-Username: dee777
+Username: dee777 <br/>
 Password: 1234
 
 ## Installation
