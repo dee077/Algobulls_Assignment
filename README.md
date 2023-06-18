@@ -39,3 +39,5 @@ Password: 1234
 
    ```shell
    python manage.py runserver
+
+Access the application by visiting http://localhost:8000/api/todo and providing admin user password credentials in your web browser.
