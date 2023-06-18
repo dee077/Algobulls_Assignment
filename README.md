@@ -43,11 +43,11 @@ Password: 1234
 
 ## API Endpoints
 The project exposes the following API endpoints:
-      1. GET /api/todo/: Retrieves a list of all ToDo items.
-      2. POST /api/todo/: Creates a new ToDo item.
-      3. GET /api/todo/{id}/: Retrieves a specific ToDo item by ID.
-      4. PUT /api/todo/{id}/: Updates a specific ToDo item by ID.
-      5. DELETE /api/todo/{id}/: Deletes a specific ToDo item by ID.
-      6. For detailed documentation of the API endpoints and request/response examples, refer to the API documentation. <br/>
+   1. GET /api/todo/: Retrieves a list of all ToDo items.
+   2. POST /api/todo/: Creates a new ToDo item.
+   3. GET /api/todo/{id}/: Retrieves a specific ToDo item by ID.
+   4. PUT /api/todo/{id}/: Updates a specific ToDo item by ID.
+   5. DELETE /api/todo/{id}/: Deletes a specific ToDo item by ID.
+   6. For detailed documentation of the API endpoints and request/response examples, refer to the API documentation. <br/>
 
 Postman Workspace: https://www.postman.com/flight-physicist-9054540/workspace/public/overview
