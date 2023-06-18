@@ -1,6 +1,7 @@
 # Algobulls_Assignment
 Visit the below link and provide admin user credentials in the alert prompt to see REST API. <br/>
 Deployment link: https://dee777.pythonanywhere.com/api/todo/ <br/>
+Postman Workspace: https://www.postman.com/flight-physicist-9054540/workspace/public/overview
 
 ## Admin User Credintials
 
