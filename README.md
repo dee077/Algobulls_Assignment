@@ -48,6 +48,6 @@ The project exposes the following API endpoints:
    3. GET /api/todo/{id}/: Retrieves a specific ToDo item by ID.
    4. PUT /api/todo/{id}/: Updates a specific ToDo item by ID.
    5. DELETE /api/todo/{id}/: Deletes a specific ToDo item by ID.
-   6. For detailed documentation of the API endpoints and request/response examples, refer to the API documentation. <br/> <br/>
+   6. For detailed documentation of the API endpoints and request/response examples, refer to the API documentation. <br/>
 
 Postman Workspace: https://www.postman.com/flight-physicist-9054540/workspace/public/overview
