@@ -26,19 +26,13 @@ Password: 1234
 
    ```shell
    pip install virtualenv <br/>
-
-   ```shell
    virtualenv env 
-
-   ```shell
    source env/bin/activate  
 
 3. Install Dependencies:
 
    ```shell
    cd Algobulls_Assignment
-
-   ```shell
    pip install -r requirements.txt
 
 4. Runserver
