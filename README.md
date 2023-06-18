@@ -1,7 +1,6 @@
 # Algobulls_Assignment
 
 Deployment link: https://dee777.pythonanywhere.com/api/todo/ <br/>
-Postman Workspace: https://www.postman.com/flight-physicist-9054540/workspace/public/overview
 
 ## Requirements
 
@@ -9,11 +8,6 @@ Make sure you have the following software installed on your machine:
 - Python 3.10
 - Django 4.2.2
 - Django REST Framework 3.14
-
-## Admin User Credintials
-
-Username: dee777 <br/>
-Password: 1234
 
 ## Installation
 
@@ -42,6 +36,11 @@ Password: 1234
 
 Access the application by visiting http://localhost:8000/api/todo and providing admin user password credentials in your web browser.
 
+## Admin User Credintials
+
+Username: dee777 <br/>
+Password: 1234
+
 ## API Endpoints
 The project exposes the following API endpoints:
    1. GET /api/todo/: Retrieves a list of all ToDo items.
@@ -50,3 +49,4 @@ The project exposes the following API endpoints:
    4. PUT /api/todo/{id}/: Updates a specific ToDo item by ID.
    5. DELETE /api/todo/{id}/: Deletes a specific ToDo item by ID.
    6. For detailed documentation of the API endpoints and request/response examples, refer to the API documentation.
+Postman Workspace: https://www.postman.com/flight-physicist-9054540/workspace/public/overview
